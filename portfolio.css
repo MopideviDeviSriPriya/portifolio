@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+        background-image: radial-gradient(white,skyblue);
+
+    
+}
+h1{
+    color: salmon;
+}
+header{
+    background-color: #542121;
+    height:100px;
+    padding: 20px;
+
+    
+}
+
+ul li{
+    display:inline;
+    color: palevioletred;
+    padding: 30px;;
+}
+mark{
+    background-color: skyblue;
+}
+ul li a{
+ color: palevioletred;
+ text-decoration: none;
+}
+#Home img{
+    height: 200PX;
+    WIDTH: 200PX;
+    border-radius: 50%;
+    
+}
+#Portif{
+    background-color: pink;
+}
+footer{
+    background-color: palevioletred;
+    height:50px;
+}
+/* body{
+    background-image: url("download\ 4.jpg");
+} */
+ 
